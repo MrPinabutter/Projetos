@@ -1,2 +1,3 @@
-<h1>Estudo sobre o logistic map em python</h1>
-<p>inicialmente estou apenas plotando os logistic maps com o matplotlib, lo</p>
+    Estudo sobre o logistic map em python
+inicialmente estou apenas plotando os logistic maps com o matplotlib logo em seguida pretendo utilizar essa equação para 
+apliações mais práticas

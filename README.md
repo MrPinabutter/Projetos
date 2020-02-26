@@ -1,2 +1,2 @@
 # Projetos
-Pequenos programas sobre curiosidades aleatórias
+Pequenos programas sobre curiosidades aleatórias e estudos variádos (matématica, física, programação)
